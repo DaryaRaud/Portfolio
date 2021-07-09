@@ -245,7 +245,7 @@ h1 {
 .main_photo {
   max-width: 940px;
   height: 340px;
-  background: url(/assets/img/1597603587.jpg) no-repeat center;
+  background: url(assets/img/1597603587.jpg) no-repeat center;
   background-size: 100%;
   margin: 0 auto;
 }
